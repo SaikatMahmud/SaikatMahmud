@@ -13,7 +13,7 @@
 <img align="center" height="152" width="auto" src="https://vercel-overview-api-2.vercel.app/api/top-langs/?username=SaikatMahmud&include_all_commits=true&count_private=true&isFork=true&langs_count=6&layout=compact&custom_title=6%20Most%20Used%20Languages" alt="6 Most Used Languages"/>
 
  <div align="center">
-<img height="152" width="auto" src="https://vercel-overview-api-2.vercel.app/api?username=SaikatMahmud&theme=default&hide_border=false&include_all_commits=true&count_private=true&custom_title=Saikat%27s%20GitHub%20Stats" alt="Saikat's GitHub Stats" loading="eager"/>
+<img src="https://vercel-overview-api-2.vercel.app/api?username=SaikatMahmud&theme=default&hide_border=false&include_all_commits=true&count_private=true&custom_title=Saikat%27s%20GitHub%20Stats" alt="Saikat's GitHub Stats" height="152" width="auto" loading="lazy"/>
 <img height="152" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=SaikatMahmud&theme=default&hide_border=false" alt="streak stats"/>
  </div>
 
